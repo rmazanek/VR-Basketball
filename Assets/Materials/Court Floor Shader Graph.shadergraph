@@ -181,20 +181,6 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "ec83d5efc2ae415687eee302b2998d63"
-                },
-                "m_SlotId": 0
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "4fa089c1170c48d2836b37ad4386e4ad"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
                     "m_Id": "fc609b52c8db47289d1909c71a6e21d8"
                 },
                 "m_SlotId": 1
@@ -202,20 +188,6 @@
             "m_InputSlot": {
                 "m_Node": {
                     "m_Id": "079ed9e194a449189609ca5ef16c1fbf"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "fc609b52c8db47289d1909c71a6e21d8"
-                },
-                "m_SlotId": 1
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "e6ff620ec4c14fd59dac849475761345"
                 },
                 "m_SlotId": 0
             }
@@ -266,7 +238,7 @@
     },
     "m_PreviewData": {
         "serializedMesh": {
-            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10210,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
+            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10200,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
             "m_Guid": ""
         },
         "preventRotation": false
@@ -694,7 +666,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Smoothness",
     "m_StageCapability": 2,
-    "m_Value": 0.5,
+    "m_Value": 0.8600000143051148,
     "m_DefaultValue": 0.5,
     "m_Labels": []
 }
